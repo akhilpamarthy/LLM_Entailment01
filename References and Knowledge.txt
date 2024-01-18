@@ -1,0 +1,29 @@
+REFERENCES AND KNOWLEDGE:
+
+1. https://machinelearningmastery.com/gentle-introduction-vectors-machine-learning/
+
+2. https://machinelearningmastery.com/linear_algebra_for_machine_learning/
+
+3. https://huggingface.co/tasks/text-classification
+
+4. https://aws.amazon.com/what-is/nlp/#:~:text=Natural%20language%20processing%20(NLP)%20combines,with%20computers%20and%20software%20tools.
+
+5. https://huggingface.co/docs/huggingface_hub/package_reference/inference_client
+
+6. https://huggingface.co/models?pipeline_tag=text-classification&sort=trending
+
+7. https://huggingface.co/models?pipeline_tag=sentence-similarity
+
+8. https://huggingface.co/docs/transformers/index
+
+9. https://huggingface.co/docs/api-inference/index
+
+10. https://huggingface.co/docs/tokenizers/index
+
+11. https://huggingface.co/docs/text-embeddings-inference/index
+
+12. https://huggingface.co/cardiffnlp/twitter-roberta-base-irony
+
+13. https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
+
+14. https://huggingface.co/allenai/specter
